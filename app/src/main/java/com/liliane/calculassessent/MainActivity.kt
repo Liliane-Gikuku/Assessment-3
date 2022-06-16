@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         tilNumberOne = findViewById(R.id.tilNumberOne)
         etNumberOne = findViewById(R.id.etNumberOne)
-        tilNumberTwo = findViewById(R.id.etNumberTwo)
+        tilNumberTwo = findViewById(R.id.tilNumberTwo)
         etNumberTwo = findViewById(R.id.etNumberTwo)
         btnAdd = findViewById(R.id.btnAdd)
         btnMinus = findViewById(R.id.btnMinus)
