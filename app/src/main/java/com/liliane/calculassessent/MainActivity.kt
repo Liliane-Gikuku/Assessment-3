@@ -142,10 +142,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-/*if(weight.isBlank()){
-                etWeight.error="Weight is required"
-                return@setOnClickListener
-            }*/
+
 
 
 
